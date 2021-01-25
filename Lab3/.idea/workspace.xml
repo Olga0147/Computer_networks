@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe35e9b9-aec4-40ba-972b-fa0e261efe05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ShIl5kyJEYHqKF5yWxdaLjvmdm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.node1">
+    <configuration name="node1" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.ccfit.zenina.Lab3.Main" />
+      <module name="Lab3" />
+      <option name="PROGRAM_PARAMETERS" value="one 2006 0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.ccfit.zenina.Lab3.Main" />
+      <module name="Lab3" />
+      <option name="PROGRAM_PARAMETERS" value="two 2007 0 192.168.100.3 2006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node3" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.ccfit.zenina.Lab3.Main" />
+      <module name="Lab3" />
+      <option name="PROGRAM_PARAMETERS" value="tree 2008 0 192.168.100.3 2007" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.node3" />
+      <item itemvalue="Application.node2" />
+      <item itemvalue="Application.node1" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe35e9b9-aec4-40ba-972b-fa0e261efe05" name="Default Changelist" comment="" />
+      <created>1572009548906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572009548906</updated>
+      <workItem from="1572009550973" duration="27822000" />
+      <workItem from="1572146530706" duration="6088000" />
+      <workItem from="1572275220577" duration="2888000" />
+      <workItem from="1572325868600" duration="367000" />
+      <workItem from="1572666905134" duration="143000" />
+      <workItem from="1572670966320" duration="553000" />
+      <workItem from="1572877266617" duration="2901000" />
+      <workItem from="1573012739793" duration="26000" />
+      <workItem from="1573546339228" duration="9000" />
+      <workItem from="1574076421607" duration="1204000" />
+      <workItem from="1574081142473" duration="1646000" />
+      <workItem from="1578115345514" duration="4563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

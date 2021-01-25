@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19ad6cfe-5827-475a-b0da-a505ee70c136" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rk8HNls7UUS0yQ58Y6wrs4G2Pk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientTXT">
+    <configuration name="ClientJPG" type="Application" factoryName="Application" singleton="false" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.ccfit.zenina.Lab2.Client" />
+      <module name="Lab2" />
+      <option name="PROGRAM_PARAMETERS" value="D:\3_year\Computer_networks\Lab2\1.jpg 127.0.0.1 6060" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.ccfit.zenina.Lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMKV" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.ccfit.zenina.Lab2.Client" />
+      <module name="Lab2" />
+      <option name="PROGRAM_PARAMETERS" value="D:\3_year\Computer_networks\Lab2\D.MKV 127.0.0.1 6060" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTXT" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.ccfit.zenina.Lab2.Client" />
+      <module name="Lab2" />
+      <option name="PROGRAM_PARAMETERS" value="D:\3_year\Computer_networks\Lab2\TXT.txt 127.0.0.1 6060" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sr" type="Application" factoryName="Application" singleton="false" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.nsu.ccfit.zenina.Lab2.Server" />
+      <module name="Lab2" />
+      <option name="PROGRAM_PARAMETERS" value="6060" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.nsu.ccfit.zenina.Lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientTXT" />
+      <item itemvalue="Application.ClientMKV" />
+      <item itemvalue="Application.sr" />
+      <item itemvalue="Application.ClientJPG" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sr" />
+        <item itemvalue="Application.ClientJPG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19ad6cfe-5827-475a-b0da-a505ee70c136" name="Default Changelist" comment="" />
+      <created>1570199644984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570199644984</updated>
+      <workItem from="1570199648903" duration="27003000" />
+      <workItem from="1570951561637" duration="14058000" />
+      <workItem from="1571116571722" duration="2488000" />
+      <workItem from="1571142894245" duration="1802000" />
+      <workItem from="1572009335648" duration="447000" />
+      <workItem from="1572275493240" duration="1758000" />
+      <workItem from="1573546360583" duration="1497000" />
+      <workItem from="1576079124143" duration="70000" />
+      <workItem from="1576080317427" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab2$ClientTXT.ic" NAME="ClientTXT Coverage Results" MODIFIED="1570457849891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

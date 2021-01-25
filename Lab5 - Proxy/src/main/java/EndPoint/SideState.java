@@ -1,0 +1,11 @@
+package EndPoint;
+
+public enum SideState {
+    RECV_HELLO,
+    SEND_HELLO_ANSWER,
+    RECV_CONNECTION,
+    SEND_CONNECTION_ANSWER,
+    CONNECTING_TO_DEST,
+    RECV_FROM_DEST_SEND_TO_CLIENT,
+    CLOSED
+}

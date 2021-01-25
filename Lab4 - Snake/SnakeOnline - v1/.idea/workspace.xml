@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef2aae79-7a12-4375-a65f-165b39b88301" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1ufg4dIfkNzkbpT3S3HMio3of" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.first">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SnakeOnline1" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SnakeOnline1" />
+      <option name="PROGRAM_PARAMETERS" value="First" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="second" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SnakeOnline1" />
+      <option name="PROGRAM_PARAMETERS" value="Second" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="third" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SnakeOnline1" />
+      <option name="PROGRAM_PARAMETERS" value="Third" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.first" />
+      <item itemvalue="Application.second" />
+      <item itemvalue="Application.third" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef2aae79-7a12-4375-a65f-165b39b88301" name="Default Changelist" comment="" />
+      <created>1576433026062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576433026062</updated>
+      <workItem from="1576433028218" duration="1111000" />
+      <workItem from="1576434481801" duration="569000" />
+      <workItem from="1578036134765" duration="1374000" />
+      <workItem from="1578037703285" duration="24472000" />
+      <workItem from="1578113652736" duration="36653000" />
+      <workItem from="1578202271617" duration="10525000" />
+      <workItem from="1578231944845" duration="15622000" />
+      <workItem from="1578371519613" duration="26894000" />
+      <workItem from="1578467246881" duration="26103000" />
+      <workItem from="1578547853360" duration="16020000" />
+      <workItem from="1578565544600" duration="1100000" />
+      <workItem from="1578634933578" duration="60000" />
+      <workItem from="1580366996392" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1578036487544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578036487544" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578388482278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578388482278" />
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1578388450568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="121" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1578388450567" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1578557821678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578557821678" />
+    <state x="503" y="178" key="EnvironmentVariablesDialog" timestamp="1578388461163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="178" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578388461163" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1578634995348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578634995348" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1580367228079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580367228079" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1580367228079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580367228079" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1580367228079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580367228079" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1580367228079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580367228079" />
+    <state width="942" height="258" key="GridCell.Tab.1.bottom" timestamp="1578158079040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578158079040" />
+    <state width="942" height="258" key="GridCell.Tab.1.center" timestamp="1578158079040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578158079040" />
+    <state width="942" height="258" key="GridCell.Tab.1.left" timestamp="1578158079040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578158079040" />
+    <state width="942" height="258" key="GridCell.Tab.1.right" timestamp="1578158079040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578158079040" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1578037724134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578037724134" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1578634958997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578634958997" />
+    <state x="499" y="199" key="extract.method.dialog" timestamp="1578126680925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="199" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1578126680925" />
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1578063630492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1578063630492" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SnakeOnline___v1$Main.ic" NAME="Main Coverage Results" MODIFIED="1578036643147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
